@@ -23,7 +23,10 @@ VirtualBox is a robust x86 and AMD64/Intel64 virtualization tool that can be use
 2. Start Installer.
 3. Once Installer is done, Install extension path from this link [ExtesionPath](https://download.virtualbox.org/virtualbox/6.1.32/Oracle_VM_VirtualBox_Extension_Pack-6.1.32.vbox-extpack)
 <hr>
+
+
 ### How to create a Virtual Machine
+
 1. open VirtualBox![icons](virtualbox2.png)
 2. click on "New" ![New](New.png)
 3. Fill out form
